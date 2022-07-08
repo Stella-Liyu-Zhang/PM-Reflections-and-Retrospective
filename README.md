@@ -4,8 +4,8 @@
 ## 1) What I think I am able to manage relatively well:
 ### **Translate clients' requirement into task descriptions and technical plans**
 - **Objective:** Deliver to client everything they required, on time.
-- **HOW TO:**
-    1)  To ensure that I personally fully understand what the client is looking for in this requirement.
+- **Process:**
+    -  To ensure that I personally fully understand what the client is looking for in this requirement.
         - Understand why the client want this change. Some motivations are:
             - Increase in Daily Active Users and other metrics.
             - User Experience elevation.
@@ -15,21 +15,21 @@
                 - New emerging demands
             - Feedback from current users.
             - To follow new rules/laws/state or federal regulations.
-    2) Briefly research into how to technically implement the feature. 
+    - Briefly research into how to technically implement the feature. 
         - Tech stacks
         - How much repetition/Dupicate codes or modification of similar codes?
         - Do we need to research into new approaches to put into practice? 
-    3) Have a rough idea on the scope of resources (time/budget/how many dev/designs, etc) needed to successfullys develop the requirement.
-    4) Give a detailed discription on what is needed
+    - Have a rough idea on the scope of resources (time/budget/how many dev/designs, etc) needed to successfullys develop the requirement.
+    - Give a detailed discription on what is needed
         - If possible, scratch out a rough result that the client is seeking.
         - Miro is a powerful tool!
-    5) If needed, write a technical document of How-to.
+    - If needed, write a technical document of How-to.
         - Non-detailed, just to keep things on track. 
         - Ensure that current technical approach is further maintainable.
-    6) Make sure that the designers and developers, the cross-functionality teams are on the same page.
+    - Make sure that the designers and developers, the cross-functionality teams are on the same page.
         - Efficiently communicate with everyone once there are any updates from clients. 
         - For instance, when a feature improvement needs 4 different teams' collab (frontend, backend, QA, UIUX Design).
-    7) Track the progress and make sure it got shipped on time.
+    - Track the progress and make sure it got shipped on time.
 
 - **An example:**
 
@@ -65,8 +65,7 @@ When I'm taking as a project manager rather than a dev, I need to use more profe
 Usually, I came across something that I don't have a deep insight into. For instance, I know myself lack knowledges in database, computer network, and anything related to system (stuff I would solidfy in my senior year). 
 - **How to improve:**
     - Research into the domain and understand the history, logic, and technology behind first.
-    - Get familiar with 2-3 common approaches in this domain.
-    - Choose 
+    - Get familiar with 2-3 common approaches in this domain. 
 - **An example:**
 For instance, I had little insights into the Facebook authentication token in web. 
 
