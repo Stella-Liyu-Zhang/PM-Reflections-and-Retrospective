@@ -9,8 +9,8 @@ Current status: Reflections on Project Management at PINT during the first 3 wee
     - Hopefully will step into a redesign project in its dev phrase (Waterfall project currently in design process).
     - Regular retrospectives really helped!
 - PM side - What I'm about to learn next in internship:
-    - Observe figure out how to handle the crisis that we already spent 60% percent of the budget within 50% of a year.
-    - Maintain a great relationship with clients and build a stable, long-term network with them
+    - Figure out how to handle the crisis that we already spent 60% percent of the budget within 50% of a year. What if huge dev tasks came next in the rest of the year?
+    - Maintain a good, well-rounded, professional relationship with clients and build a stable, long-term network with them.
     - Learn how to write Technical documents in a professional way
 - SWE side - Current status in internship:
     - Finished learning HTML
