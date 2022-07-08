@@ -1,5 +1,5 @@
 # Product/Project Management Notes
-The purpose of the document is tracking my progress in project and product management throughout my internship at PINT, inc.
+The purpose of the document is to track my progress in project and product management throughout my internship at PINT, inc.
 
 Current status: Reflections on Project Management at PINT during the first 3 weeks of my internship (6/20/2022 - 7/8/2022)
 ## 1) What I think I am able to manage relatively well:
