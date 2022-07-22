@@ -3,28 +3,34 @@ The purpose of the document is to track my progress in project and product manag
 
 There are some SWE progress tracking as well.
 
-Current status: Reflections on Project Management at PINT during the first 3 weeks of my internship (6/20/2022 - 7/8/2022)
+Reflections on Project Management and Software Engineering at PINT during my first month (5 weeks) of Summer 2022 internship (6/20/2022 - 7/22/2022)
+- SWE side - Current status in internship:
+    - Learnt HTML  ([**GitHub Link**](https://github.com/Stella-Liyu-Zhang/Html-Notes))
+    - Learnt HTTPs and JSON Server    ([**GitHub Link**](https://github.com/Stella-Liyu-Zhang/HTTP-notes-and-projects))
+    - Learnt image performance and optimization    ([**GitHub Link**](https://github.com/Stella-Liyu-Zhang/Image-Optimzation-Projects))
+    - Built a CRUD API to better understand JSON, HTTP and CRUD, tested in Postman   ([**GitHub Link**](https://github.com/Stella-Liyu-Zhang/Hello-it-s-time-to-GO/tree/master/go-movies-crud))
+    - Built a simple Web Server to better understand HTTP, tested in Postman    ([**GitHub Link**](https://github.com/Stella-Liyu-Zhang/Hello-it-s-time-to-GO/tree/master/Go-server))
+    - Learnt CSS ([**GitHub Link**](https://github.com/Stella-Liyu-Zhang/Portfolio)) and built a site that is hosted [**HERE**](https://stella-liyu-zhang.github.io/Portfolio/).
+    - Rebuilt PINT.com!   ([**GitHub Link**]())
+- SWE side - What I'm about to learn next in internship:
+    - JavaScript
+    - REST API
+    - Web Server
+    - Sessioning
+    - Operating System
+    - Networking
+    - Help one Senior Dev with building a website for one of our clients.
 - PM side - Current status in internship:
-    - Helping 2 Senior Project managers manage 1 client's products (3 sites, one site has 7 different regional domains to maintain.)
-    - Hopefully will step into a redesign project in its dev phrase (Waterfall project currently in design process).
-    - Regular retrospectives really helped!
+    - Helping Senior Project manager manage 1 client's products (3 sites, one site has 7 different regional domains to maintain.)
+    - Preparing to step into a redesign project in 2 weeks when it comes to dev phase (Waterfall project currently in design process).
+    - Regular retrospectives on what I learned really helped! ([**Retrospective document**](https://github.com/Stella-Liyu-Zhang/pintsite))
+    - 
 - PM side - What I'm about to learn next in internship:
-    - Figure out how to handle the crisis that we already spent 60% percent of the budget within 50% of a year. What if huge dev tasks came next in the rest of the year?
+    - Step into managing a redesign project in 2 weeks
+    - Figure out how to handle the problem that we already spent 60% percent of the budget within 50% of a year. What if huge dev tasks came next during the rest of the year?
     - Maintain a good, well-rounded, professional relationship with clients and build a stable, long-term network with them.
     - Learn how to write Technical documents in a professional way
-- SWE side - Current status in internship:
-    - Finished learning HTML
-    - Finished learning HTTP
-    - In progress of learning image performance and optimization
-- SWE side - What I'm about to learn next in internship:
-    - CSS
-    - JavaScript
-    - API
-    - Server
-    - Architecture
-    - Operating System
-    - Networks
-    - Sessioning
+
 ## 1) What I think I am able to manage relatively well:
 ### **Translate clients' requirement into task descriptions and technical plans**
 - **Objective:** Deliver client's requirement on time.
